@@ -1,4 +1,4 @@
-package main
+package platforms
 
 import (
 	"guku.io/devx/v1"
